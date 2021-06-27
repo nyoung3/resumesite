@@ -63,13 +63,13 @@
 <section id="hero" class="d-flex flex-column justify-content-center">
     <div class="container" data-aos="zoom-in" data-aos-delay="100">
         <h1>Nathan Young</h1>
-        <p>I'm <span class="typed" data-typed-items="a Developer,a Challenge-Seeker,a Google Search Master,looking for a great team."></span></p>
+        <p>I'm <span class="typed" data-typed-items="hoping the kitties have your attention, a Developer,a Challenge-Seeker,a Google Search Master,looking for a great team."></span></p>
         <div class="social-links">
-            <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-            <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
+<!--            <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>-->
+<!--            <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>-->
 <!--            <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>-->
 <!--            <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>-->
-            <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+            <a href="https://www.linkedin.com/in/nathanyoungdev/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
         </div>
     </div>
 </section><!-- End Hero -->
@@ -82,14 +82,14 @@
 
             <div class="section-title">
                 <h2>About</h2>
-                <p>Hi, I'm Nathan. I'm a Full-Stack Web Developer. I have a cat that plays fetch. I love building awesome web apps.</p>
+                <p>Hi, I'm Nathan. I have a cat that plays fetch and I love building awesome web apps.</p>
             </div>
 
             <div class="row">
                 <div class="col-lg-4">
-                    <img src="assets/img/profile-img.jpg" class="img-fluid" alt="">
+                    <img src="assets/img/IMG_3405.jpg" class="img-fluid" alt="">
                 </div>
-                <div class="col-lg-8 pt-4 pt-lg-0 content text-center">
+                <div class="col-lg-8 pt-4 pt-lg-0 content text-left">
                     <h3>Full Stack Web Developer</h3>
                     <p class="font-italic">
                         With a wide-ranging toolbelt, from JQuery and PHP, to AWS and GCP and more.
@@ -327,6 +327,56 @@
                             <li>Learned the ropes of the LEMP stack, fixed bugs, found (and fixed) a major security flaw while finishing my degree</li>
                         </ul>
                     </div>
+                    <div class="resume-item">
+                        <h4>Student Worker, Spreadsheet Master, Blackboard Support</h4>
+                        <h5>Nov 2018 - Apr 2019</h5>
+                        <p><em><a href="https://www.se.edu/cidt/" target="_blank">Southeastern Oklahoma State University (CIDT Department)</a>, Durant OK</em></p>
+                        <ul>
+                            <li>Built powerful spreadsheet based tools for the department to track student worker hours, tasks, and project management to save the department costs on project management software, created forms for surveys and was the go-to troubleshooter</li>
+                            <li>
+                                Supported university faculty in BlackBoard, and performed administrative tasks and reporting
+                            </li>
+                            <li>Supported university faculty in facilitating distance learning courses over Zoom, and legacy IETV hardware</li>
+                        </ul>
+                    </div>
+                    <div class="resume-item">
+                        <h4>Sales Associate</h4>
+                        <h5>Feb 2015 - Apr 2019</h5>
+                        <p><em><a href="https://www.se.edu/cidt/" target="_blank">The Home Depot, Sherman, TX</a>, Durant OK</em></p>
+                        <ul>
+                            <li>
+                                Provide customers with accurate information to direct them to their choice of products
+                            </li>
+                            <li>
+                                Demonstrate product features and explain how tools, or hardware will fit the customers’ needs
+                            </li>
+                            <li>
+                                Arrange for purchases to be shipped to job sites, home or business addresses
+                            </li>
+                            <li>
+                                Solve tough problems for customers, and help build out their project needs and ideas using out-of-the-box problem solving
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="resume-item">
+                        <h4>Cashier</h4>
+                        <h5>Sep 2014 - Jan 2015</h5>
+                        <p><em><a href="https://www.se.edu/cidt/" target="_blank">The Home Depot, Sherman, TX</a>, Durant OK</em></p>
+                        <ul>
+                            <li>
+                                Perform transactions by processing cash and credit card payments accurately and quickly
+                            </li>
+                            <li>
+                                Provide customers with accurate information to direct them to their choice of products
+                            </li>
+                            <li>
+                                Arrange for purchases to be shipped to job sites, home or business addresses
+                            </li>
+                            <li>
+                                Assist customers through the payment process, ensuring that change and receipts are tendered to them accurately and efficiently
+                            </li>
+                        </ul>
+                    </div>
                 </div>
             </div>
 
@@ -341,9 +391,7 @@
     <div class="container">
         <h3>Nathan Young</h3>
         <div class="social-links">
-            <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-            <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-            <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+            <a href="https://www.linkedin.com/in/nathanyoungdev/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
         </div>
         <div class="credits">
             <!-- All the links in the footer should remain intact. -->
