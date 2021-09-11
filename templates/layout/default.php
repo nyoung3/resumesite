@@ -63,7 +63,7 @@
 <section id="hero" class="d-flex flex-column justify-content-center">
     <div class="container" data-aos="zoom-in" data-aos-delay="100">
         <h1>Nathan Young</h1>
-        <p>I'm <span class="typed" data-typed-items="hoping the kitties have your attention, a Developer,a Challenge-Seeker,a Google Search Master,looking for a great team."></span></p>
+        <p>I'm <span class="typed" data-typed-items="hoping the kitties have your attention, a Developer,a Challenge-Seeker,a Google Search Master"></span></p>
         <div class="social-links">
 <!--            <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>-->
 <!--            <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>-->
@@ -100,16 +100,15 @@
                                 <li><i class="icofont-rounded-right"></i> <strong>Birthday:</strong> November 19</li>
                                 <li><i class="icofont-rounded-right"></i> <strong>Website:</strong> You're here! Hooray!</li>
                                 <li><i class="icofont-rounded-right"></i> <strong>City:</strong> Durant, Oklahoma, USA</li>
-                                <li><i class="icofont-rounded-right"></i> <strong>Looking for a great team:</strong> Yes!</li>
-                                <li><i class="icofont-rounded-right"></i> <strong>Available: </strong> Now</li>
+                                <li><i class="icofont-rounded-right"></i> <strong>Looking for a great team:</strong> Currently taken!</li>
+                                <li><i class="icofont-rounded-right"></i> <strong>Available: </strong> No</li>
                             </ul>
                         </div>
                         <div class="col-lg-6">
                             <ul>
-                                <li><i class="icofont-rounded-right"></i> <strong>Age:</strong> 25</li>
                                 <li><i class="icofont-rounded-right"></i> <strong>Degree:</strong> Bachelor</li>
                                 <li><i class="icofont-rounded-right"></i> <strong>Email:</strong> <a href="mailto:nathan333young@gmail.com">nathan333young@gmail.com</a></li>
-                                <li><i class="icofont-rounded-right"></i> <strong>Willing to relocate:</strong> Yep!</li>
+                                <li><i class="icofont-rounded-right"></i> <strong>Willing to relocate:</strong> Not right now.</li>
                             </ul>
                         </div>
                     </div>
@@ -118,53 +117,6 @@
 
         </div>
     </section><!-- End About Section -->
-
-    <!-- ======= Facts Section ======= -->
-<!--    <section id="facts" class="facts">-->
-<!--        <div class="container" data-aos="fade-up">-->
-<!---->
-<!--            <div class="section-title">-->
-<!--                <h2>Facts</h2>-->
-<!--            </div>-->
-<!---->
-<!--            <div class="row">-->
-<!---->
-<!--                <div class="col-lg-3 col-md-6">-->
-<!--                    <div class="count-box">-->
-<!--                        <i class="icofont-simple-smile"></i>-->
-<!--                        <span data-toggle="counter-up">232</span>-->
-<!--                        <p>Happy Clients</p>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!---->
-<!--                <div class="col-lg-3 col-md-6 mt-5 mt-md-0">-->
-<!--                    <div class="count-box">-->
-<!--                        <i class="icofont-document-folder"></i>-->
-<!--                        <span data-toggle="counter-up">521</span>-->
-<!--                        <p>Projects</p>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!---->
-<!--                <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">-->
-<!--                    <div class="count-box">-->
-<!--                        <i class="icofont-live-support"></i>-->
-<!--                        <span data-toggle="counter-up">1,463</span>-->
-<!--                        <p>Hours Of Support</p>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!---->
-<!--                <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">-->
-<!--                    <div class="count-box">-->
-<!--                        <i class="icofont-users-alt-5"></i>-->
-<!--                        <span data-toggle="counter-up">15</span>-->
-<!--                        <p>Hard Workers</p>-->
-<!--                    </div>-->
-<!--                </div>-->
-<!---->
-<!--            </div>-->
-<!---->
-<!--        </div>-->
-<!--    </section><!-- End Facts Section -->-->
 
     <!-- ======= Skills Section ======= -->
     <section id="skills" class="skills section-bg">
